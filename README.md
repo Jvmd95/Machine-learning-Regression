@@ -4,6 +4,10 @@ This is a [Kaggle project](https://www.kaggle.com/c/house-prices-advanced-regres
 
 In the future I will do some feature engineering and selection on the categorical features, which I didnt pay enough attention to, and use the gradient boosting regressor method instead of random forests, as I believe is more appropiate for this type of regression problems.
 
+**Update v.1:**
+
+Gradient boosting improved my score from 0.17 to 0.145 which is a significant improvement, going from the percentile 70th to the percentile 50th (mean). 
+
 ## Dataset
 
 [Here is the link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) of the data, including a description of every column.
